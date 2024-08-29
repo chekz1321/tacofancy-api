@@ -62,7 +62,7 @@ To get a listing of all contributors and their usernames, call:
 This whole this is a relatively rudimentary Flask setup. After you ``pip install``
 the requirements, you should be able to visit ``/cook/`` to get a DB
 together. The Flask app is looking for an environmental variable ``DATABASE_URL`` to
-tell it how to connect to the database. Depending on what backend you’re using, you
+tell it how to connect to the database. Depending on what backend you’re using, ou
 might need to actually create the database, etc before it’ll work.
 I developed this with sqlite but you should be able to use any backend that
 SQLAlchemy supports. 
