@@ -26,5 +26,5 @@
             type: 'GET',
             dataType: 'json'
         })
-    }
+    
 })()
