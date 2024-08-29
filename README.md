@@ -68,5 +68,5 @@ I developed this with sqlite but you should be able to use any backend that
 SQLAlchemy supports. 
 
 You’ll also need to set ``GITHUB_TOKEN`` as an environment variable. This is a
-OAuth Token for the Github API. You can read more about how to get that going
+OAuth Token for the Github API. You can read more about how to get that goin
 [here](https://developer.github.com/v3/auth/#basic-authentication)
